@@ -13,6 +13,7 @@ Key Features:
 
 ✅Player Input: Players input their moves by specifying the row and column where they want to place their symbol (e.g., 'X' or 'O').
 ✅Winning Condition: After each move, the game checks if the current player has won by checking for three of their symbols in a row, column, or diagonal.
+
 ✅Tie Condition: If the board is full and no player has won, the game ends in a tie.
 
 ✅Output: The game displays the current state of the board after each move and announces the winner or a tie when the game ends.
